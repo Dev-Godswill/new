@@ -1,0 +1,72 @@
+Stand-Up Meeting (31st March, 2023)
+
+Report from IAN
+1. Fix to asset management dashboard
+2. refining the (card images for assets)
+3. creating the assets almost completed (would complete today)
+4. testing ongoing with minor fixes made
+5. testing ongoing with CPD
+6. working on refinement for the asset 
+7. Luke to take a look on scheduling
+
+Report from Dan
+1. mileage placed on hold
+2. risk assessment for colleagues 
+3. training event - not started (Luke)
+4. salary desk (Luke)
+5. colleague mentoring been worked on
+6. external events
+
+Report from Elli
+1. updated risk assessment for service user but broken would fix
+2. finalized pulse 
+3. resolve board for one small thing. 
+4. fix ACT
+
+Report from Derek
+1. progression opportunities fixed
+2. work with Luke for Payroll
+3. dashboard for fixes
+4. aggregate issue working
+5. contracts to be worked on.
+
+Report from Karl
+1. Payroll 
+2. minor changes to be made 
+3. did testing 
+4. couple of TVing issues
+5. Jason to have a look on the testing environment to have it quicker.
+6. postgres and data
+7. refinement to be done
+
+Report from Emily
+1. working on update to tracker
+2. design to do for Ben on tracker
+3. all issues to be resolved 
+
+Report from Jason
+1. did some testing on postgres 15 upgrade
+2. OST sorted out with just sort and holistic needs left to do.
+3. audits and medication checkout 
+4. risk assessment
+
+Report from David
+1. Alexas has been sorted out
+2. Steven happy with work done by David- its ok to be deployed.
+3. Environment check scan to be done. 
+
+Report from Luke
+1. Breakcards in Healthcare
+2. Investigate Payroll issues from HFHC
+3. 
+
+Report from Steven
+1. Fix to the multi-dashboard done
+2. childboard would pick up the same parameter
+3. NEWCO- what's this?
+4. parameter label for service users and staff would be avaialble today
+5. 
+
+Key:
+a. Anything to be mentioned to Medway
+b. Upcoming meetings: ACT, timetables with PI for 11am, PI refinement by 12:30,  
